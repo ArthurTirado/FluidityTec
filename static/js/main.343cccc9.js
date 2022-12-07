@@ -10711,7 +10711,7 @@
                     }
                 },
                 ot = [{
-                    name: "SunsetDrive",
+                    name: ">>Sunset_Drive",
                     image: Ge,
                     colors: {
                         "--bg-color": "#2E2E2E",
@@ -10720,13 +10720,13 @@
                         "--accent-color2": "#FDD99D"
                     }
                 }, {
-                    name: "Pop!OS",
-                    image: "https://oswallpapers.com/wp-content/uploads/2019/04/kate-hazen-unleash-your-robot.jpg",
+                    name: ">>Sunset_Drive='blue'",
+                    image: "static/media/acuraBlue.png",
                     colors: {
-                        "--bg-color": "#333136",
-                        "--default-color": "#2BC5EB",
-                        "--accent-color": "#FCD307",
-                        "--accent-color2": "#2BC5EB"
+                        "--bg-color": "#2E2E2E",
+                        "--default-color": "#649bc0",
+                        "--accent-color": "#b6bfe3",
+                        "--accent-color2": "#649bc0"
                     }
                 }, {
                     name: "Dark Souls",
