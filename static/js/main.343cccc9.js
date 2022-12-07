@@ -10661,7 +10661,7 @@
       }
     ]
   }
-],
+]
                 nt = [{
                     label: "pic_1",
                     value: Ge
