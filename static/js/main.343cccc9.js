@@ -10723,10 +10723,10 @@
                     name: ">>Sunset_Drive='blue'",
                     image: "static/media/acuraBlue.png",
                     colors: {
-                        "--bg-color": "#2E2E2E",
-                        "--default-color": "#649bc0",
-                        "--accent-color": "#b6bfe3",
-                        "--accent-color2": "#649bc0"
+                        "--bg-color": "#1b2739",
+                        "--default-color": "#f6fbfa",
+                        "--accent-color": "#c5ecf5",
+                        "--accent-color2": "#f6fbfa"
                     }
                 }, {
                     name: "Dark Souls",
