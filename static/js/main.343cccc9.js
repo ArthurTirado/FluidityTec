@@ -10738,15 +10738,6 @@
                         "--accent-color2": "#ffffff"
                    }
                 }, {
-                    name: "Dark Souls",
-                    image: "https://i.pinimg.com/originals/16/74/db/1674dbae45cd38f3d3b4c00dc8616bd7.gif",
-                    colors: {
-                        "--bg-color": "#32323C",
-                        "--default-color": "#A0A08C",
-                        "--accent-color": "#9A6650",
-                        "--accent-color2": "#461E28"
-                    }
-                }, {
                     name: "S.E.Lain",
                     image: "https://64.media.tumblr.com/54a945edd2641e20859d6f6537cd7423/tumblr_pwa4bogz4N1qze3hdo2_r1_500.gifv",
                     colors: {
