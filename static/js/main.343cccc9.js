@@ -10728,6 +10728,15 @@
                         "--accent-color": "#c5ecf5",
                         "--accent-color2": "#f6fbfa"
                     }
+                 }, {
+                    name: "Musachi",
+                    image: "static/media/musachi.jpg",
+                    colors: {
+                        "--bg-color": "#000000",
+                        "--default-color": "#ffffff",
+                        "--accent-color": "#ffffff",
+                        "--accent-color2": "#ffffff"
+                   }
                 }, {
                     name: "Dark Souls",
                     image: "https://i.pinimg.com/originals/16/74/db/1674dbae45cd38f3d3b4c00dc8616bd7.gif",
