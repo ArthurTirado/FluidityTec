@@ -10748,9 +10748,9 @@
                     }
                 }, {
                     name: "Chensoman",
-                    image: "static/media/chensoman.jpg",
+                    image: "static/media/chensoman.png",
                     colors: {
-                        "--bg-color": "#0000000",
+                        "--bg-color": "#000000",
                         "--default-color": "#ff7c34",
                         "--accent-color": "#fefb6c",
                         "--accent-color2": "#ff7c34"
