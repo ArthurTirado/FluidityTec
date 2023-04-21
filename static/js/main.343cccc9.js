@@ -10747,13 +10747,13 @@
                         "--accent-color2": "#57182e"
                     }
                 }, {
-                    name: "Kitties",
-                    image: "https://64.media.tumblr.com/5a232d5c0999d02388d78e5c1025f94f/0572516693bf4014-3d/s500x750/0306dc89b657093529aa3ce96e64b9c43572e901.gifv",
+                    name: "Chensoman",
+                    image: "static/media/chensoman.jpg",
                     colors: {
-                        "--bg-color": "#495662",
-                        "--default-color": "#d1f1fa",
-                        "--accent-color": "#80aad4",
-                        "--accent-color2": "#e8a9b7"
+                        "--bg-color": "#0000000",
+                        "--default-color": "#ff7c34",
+                        "--accent-color": "#fefb6c",
+                        "--accent-color2": "#ff7c34"
                     }
                 }, {
                     name: "pretty chill",
