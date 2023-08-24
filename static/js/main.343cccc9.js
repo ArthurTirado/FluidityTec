@@ -10756,13 +10756,13 @@
                         "--accent-color2": "#ff7c34"
                     }
                 }, {
-                    name: "pretty chill",
-                    image: "https://e4p7c9i3.stackpathcdn.com/wp-content/uploads/2019/05/tumblr_oymsnbT0111vjxiz1o1_1280.gif?iv=165",
+                    name: "Void Blue",
+                    image: "static/media/voidblue.png",
                     colors: {
-                        "--bg-color": "#397d76",
-                        "--default-color": "#f1daba",
-                        "--accent-color": "#c5bdb5",
-                        "--accent-color2": "#93a662"
+                        "--bg-color": "#000000",
+                        "--default-color": "#78FDFF",
+                        "--accent-color": "#ffffff",
+                        "--accent-color2": "#78FDFF"
                     }
                 }],
                 it = {
