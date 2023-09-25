@@ -10750,10 +10750,10 @@
                     name: "Darkness",
                     image: "static/media/darkness.png",
                     colors: {
-                        "--bg-color": "#222222",
+                        "--bg-color": "#000000",
                         "--default-color": "#ffffff",
                         "--accent-color": "#ffffff",
-                        "--accent-color2": "#000000"
+                        "--accent-color2": "#ffffff"
                    }
                 }, {
                     name: "The King of Curses",
