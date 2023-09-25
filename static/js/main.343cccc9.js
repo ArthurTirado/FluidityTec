@@ -10747,14 +10747,14 @@
                         "--accent-color2": "#57182e"
                     }
                 }, {
-                    name: "Chensoman",
-                    image: "static/media/chensoman.png",
+                    name: "Darkness",
+                    image: "static/media/darkness.png",
                     colors: {
-                        "--bg-color": "#000000",
-                        "--default-color": "#ff7c34",
-                        "--accent-color": "#fefb6c",
-                        "--accent-color2": "#ff7c34"
-                    }
+                        "--bg-color": "#222222",
+                        "--default-color": "#ffffff",
+                        "--accent-color": "#ffffff",
+                        "--accent-color2": "#000000"
+                   }
                 }, {
                     name: "The King of Curses",
                     image: "static/media/sukuna.jpg",
