@@ -10773,6 +10773,15 @@
                         "--accent-color": "#ffffff",
                         "--accent-color2": "#78FDFF"
                     }
+                }, {
+                    name: "Bodhisattva",
+                    image: "static/media/netero.jpg",
+                    colors: {
+                        "--bg-color": "#1F140E",
+                        "--default-color": "#ffffff",
+                        "--accent-color": "#B1A89F",
+                        "--accent-color2": "#B1A89F"
+                    }
                 }],
                 it = {
                     get: function () {
