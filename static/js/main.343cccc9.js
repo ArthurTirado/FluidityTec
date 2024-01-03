@@ -10570,100 +10570,98 @@
                 Ke = n.p + "static/media/pic_6.64d50c020259c8dec88e.jpg",
                 Je = n.p + "static/media/pic_7.5125a16fb9841edb115a.jpg",
                 et = n.p + "static/media/pic_8.4387a5b982e94311f550.png",
-                tt = [
-  {
-    "title": "Cegep",
-    "links": [
-      {
-        "label": "Omnivox",
-        "value": "https://csfoy.omnivox.ca/"
-      },
-      {
-        "label": "Prog Obj II - Site Web",
-        "value": "https://sites.google.com/view/smonjal-po2"
-      },
-      {
-        "label": "Réseaux - Site Web",
-        "value": "https://reseaux.progwmj.ca/"
-      },
-      {
-        "label": "SAS - Reservation",
-        "value": "https://scop-sas.csfoy.ca/booked_sas/Web/schedule.php"
-      },
-      {
-        "label": "Gmail",
-        "value": "https://mail.google.com/"
-      }
-    ]
-  },
-  {
-    "title": "Utilities",
-    "links": [
-      {
-        "label": "Youtube",
-        "value": "https://www.youtube.com/"
-      },
-      {
-        "label": "Spotify",
-        "value": "https://open.spotify.com/"
-      },
-      {
-        "label": "Translate",
-        "value": "https://translate.google.com/"
-      },
-      {
-        "label": "Antidote",
-        "value": "https://antidote.app/corrector"
-      },
-      {
-        "label": "Chat GPT",
-        "value": "https://chat.openai.com/"
-      }
-    ]
-  },
-  {
-    "title": "Google",
-    "links": [
-      {
-        "label": "Drive",
-        "value": "https://drive.google.com/"
-      },
-      {
-        "label": "Docs",
-        "value": "https://docs.google.com/"
-      },
-      {
-        "label": "Slides",
-        "value": "https://slides.google.com/"
-      },
-      {
-        "label": "Sheets",
-        "value": "https://sheets.google.com/"
-      },
-      {
-        "label": "Keep",
-        "value": "https://keep.google.com/"
-      }
-    ]
-  },
-  {
-    "title": "3D printer",
-    "links": [
-      {
-        "label": "Mainsail",
-        "value": "http://192.168.2.144/"
-      },
-      {
-        "label": "Thingiverse",
-        "value": "https://www.thingiverse.com/"
-      },
-      {
-        "label": "Printables",
-        "value": "https://www.printables.com/"
-      }
-    ]
-  }
-],
+              tt = [
+                    {
+                      "title": "Cegep",
+                      "links": [
+                        {
+                          "label": "Omnivox",
+                          "value": "https://csfoy.omnivox.ca/"
+                        },
+                        {
+                          "label": "Prog Obj II - Site Web",
+                          "value": "https://sites.google.com/view/smonjal-po2"
+                        },
+                        {
+                          "label": "Réseaux - Site Web",
+                          "value": "https://reseaux.progwmj.ca/"
+                        },
+                        {
+                          "label": "SAS - Reservation",
+                          "value": "https://scop-sas.csfoy.ca/booked_sas/Web/schedule.php"
+                        },
+                        {
+                          "label": "Gmail",
+                          "value": "https://mail.google.com/"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Utilities",
+                      "links": [
+                        {
+                          "label": "Youtube",
+                          "value": "https://www.youtube.com/"
+                        },
+                        {
+                          "label": "Spotify",
+                          "value": "https://open.spotify.com/"
+                        },
+                        {
+                          "label": "Translate",
+                          "value": "https://translate.google.com/"
+                        },
+                        {
+                          "label": "Antidote",
+                          "value": "https://antidote.app/corrector"
+                        },
+                        {
+                          "label": "Chat GPT",
+                          "value": "https://chat.openai.com/"
+                        }
+                      ]
+},
+                    {
+                      "title": "Google",
+                      "links": [
+                        {
+                          "label": "Drive",
+                          "value": "https://drive.google.com/"
+                        },
+                        {
+                          "label": "Docs",
+                          "value": "https://docs.google.com/"
+                        },
+                        {
+                          "label": "Slides",
+                          "value": "https://slides.google.com/"
+                        },
+                        {
+                          "label": "Sheets",
+                          "value": "https://sheets.google.com/"
+                        },
+                        {
+                          "label": "Keep",
+                          "value": "https://keep.google.com/"
+                        }]
+                    },
+                    {
+                      "title": "3D printer",
+                      "links": [
+                        {
+                          "label": "Mainsail",
+                          "value": "http://192.168.2.144/"
+                        },
+                        {
+                          "label": "Thingiverse",
+                          "value": "https://www.thingiverse.com/"
+                        },
+                        {
+                          "label": "Printables",
+                          "value": "https://www.printables.com/"
+                        }
+                      ]
+                    }],
                 at = {
                     engine: rt[0].value,
                     fastForward: {
