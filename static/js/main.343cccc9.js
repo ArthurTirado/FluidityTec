@@ -10570,135 +10570,100 @@
                 Ke = n.p + "static/media/pic_6.64d50c020259c8dec88e.jpg",
                 Je = n.p + "static/media/pic_7.5125a16fb9841edb115a.jpg",
                 et = n.p + "static/media/pic_8.4387a5b982e94311f550.png",
-                tt = [{
-                    title: "Reddit",
-                    links: [{
-                        label: "r/startpages",
-                        value: "https://www.reddit.com/r/startpages/"
-                    }, {
-                        label: "r/unixporn",
-                        value: "https://www.reddit.com/r/unixporn/"
-                    }, {
-                        label: "r/rainmeter",
-                        value: "https://www.reddit.com/r/rainmeter/"
-                    }, {
-                        label: "r/AnimalsBeingDerps",
-                        value: "https://www.reddit.com/r/AnimalsBeingDerps/"
-                    }]
-                }, {
-                    title: "3D Modelling",
-                    links: [{
-                        label: "Blender",
-                        value: "https://www.blender.org/"
-                    }, {
-                        label: "BlenderGuru",
-                        value: "https://www.blenderguru.com/"
-                    }, {
-                        label: "Poliigon",
-                        value: "https://www.poliigon.com/"
-                    }, {
-                        label: "Blender tutorial",
-                        value: "https://www.youtube.com/watch?v=NyJWoyVx_XI&list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U"
-                    }, {
-                        label: "The other Blender tutorial",
-                        value: "https://www.youtube.com/watch?v=bpvh-9H8S1g&list=PL8eKBkZzqDiU-qcoaghCz04sMitC1yx6k&index=1"
-                    }]
-                }, {
-                    title: "Design",
-                    links: [{
-                        label: "PixlrX",
-                        value: "https://pixlr.com/x/"
-                    }, {
-                        label: "AI Image Enlarger",
-                        value: "https://bigjpg.com/en"
-                    }, {
-                        label: "Img to Svg Converter",
-                        value: "https://picsvg.com/"
-                    }, {
-                        label: "Affinity",
-                        value: "https://affinity.serif.com/en-us/tutorials/designer/desktop/"
-                    }, {
-                        label: "Affinity - YT",
-                        value: "https://www.youtube.com/c/AffinityRevolution/playlists"
-                    }]
-                }, {
-                    title: "Music",
-                    links: [{
-                        label: "i wanna be a cowboy",
-                        value: "https://www.youtube.com/watch?v=8zWz92f_HGs"
-                    }, {
-                        label: "let the bodies hit the floor",
-                        value: "https://www.youtube.com/watch?v=b--VKaCB9u0"
-                    }, {
-                        label: "Nobody Kanna Cross It",
-                        value: "https://www.youtube.com/watch?v=2wqTnwJGvtc"
-                    }, {
-                        label: "Smug Dancin",
-                        value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q"
-                    }, {
-                        label: "Utamaru - The Sanctified Mind Cover",
-                        value: "https://www.youtube.com/watch?v=MHlJKLlS07U"
-                    }]
-                }, {
-                    title: "Sauce",
-                    links: [{
-                        label: "Pictures - DeathAndMilk",
-                        value: "https://www.instagram.com/deathandmilk_/"
-                    }, {
-                        label: "Icons - FontAwesome",
-                        value: "https://fontawesome.com/icons"
-                    }, {
-                        label: "Text Flicker - CodeMyUI",
-                        value: "https://codemyui.com/crt-screen-text-flicker-animation-in-pure-css/"
-                    }, {
-                        label: "Wave Animation - mburakerman",
-                        value: "https://codepen.io/mburakerman/pen/eRZZEv"
-                    }, {
-                        label: "Da real sauce \u0505(\u2661\ufe43\u2661\u0505)",
-                        value: "https://www.youtube.com/watch?v=qr89xoZyE1g"
-                    }, {
-                        label: "Even more real sauce ( \u0361\xb0 \u035c\u0296 \u0361\xb0)",
-                        value: "https://www.youtube.com/watch?v=VLhJOd_TFiI"
-                    }]
-                }],
-                nt = [{
-                    label: "pic_1",
-                    value: Ge
-                }, {
-                    label: "pic_2",
-                    value: qe
-                }, {
-                    label: "pic_3",
-                    value: Xe
-                }, {
-                    label: "pic_4",
-                    value: Qe
-                }, {
-                    label: "pic_5",
-                    value: Ze
-                }, {
-                    label: "pic_6",
-                    value: Ke
-                }, {
-                    label: "pic_7",
-                    value: Je
-                }, {
-                    label: "pic_8",
-                    value: et
-                }],
-                rt = [{
-                    label: "DuckDuckGo",
-                    value: "duckduckgo.com/"
-                }, {
-                    label: "Google",
-                    value: "google.com/search"
-                }, {
-                    label: "Qwant",
-                    value: "qwant.com/"
-                }, {
-                    label: "Ecosia",
-                    value: "ecosia.org/search"
-                }],
+                tt = [
+  {
+    "title": "Cegep",
+    "links": [
+      {
+        "label": "Omnivox",
+        "value": "https://csfoy.omnivox.ca/"
+      },
+      {
+        "label": "Prog Obj II - Site Web",
+        "value": "https://sites.google.com/view/smonjal-po2"
+      },
+      {
+        "label": "Réseaux - Site Web",
+        "value": "https://reseaux.progwmj.ca/"
+      },
+      {
+        "label": "SAS - Reservation",
+        "value": "https://scop-sas.csfoy.ca/booked_sas/Web/schedule.php"
+      },
+      {
+        "label": "Gmail",
+        "value": "https://mail.google.com/"
+      }
+    ]
+  },
+  {
+    "title": "Utilities",
+    "links": [
+      {
+        "label": "Youtube",
+        "value": "https://www.youtube.com/"
+      },
+      {
+        "label": "Spotify",
+        "value": "https://open.spotify.com/"
+      },
+      {
+        "label": "Translate",
+        "value": "https://translate.google.com/"
+      },
+      {
+        "label": "Antidote",
+        "value": "https://antidote.app/corrector"
+      },
+      {
+        "label": "Chat GPT",
+        "value": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "title": "Google",
+    "links": [
+      {
+        "label": "Drive",
+        "value": "https://drive.google.com/"
+      },
+      {
+        "label": "Docs",
+        "value": "https://docs.google.com/"
+      },
+      {
+        "label": "Slides",
+        "value": "https://slides.google.com/"
+      },
+      {
+        "label": "Sheets",
+        "value": "https://sheets.google.com/"
+      },
+      {
+        "label": "Keep",
+        "value": "https://keep.google.com/"
+      }
+    ]
+  },
+  {
+    "title": "3D printer",
+    "links": [
+      {
+        "label": "Mainsail",
+        "value": "http://192.168.2.144/"
+      },
+      {
+        "label": "Thingiverse",
+        "value": "https://www.thingiverse.com/"
+      },
+      {
+        "label": "Printables",
+        "value": "https://www.printables.com/"
+      }
+    ]
+  }
+],
                 at = {
                     engine: rt[0].value,
                     fastForward: {
