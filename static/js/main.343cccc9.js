@@ -10738,6 +10738,15 @@
                         "--accent-color2": "#ffffff"
                    }
                 }, {
+                    name: "Guts",
+                    image: "static/media/guts.jpg",
+                    colors: {
+                        "--bg-color": "#000000",
+                        "--default-color": "#AFCFFF",
+                        "--accent-color": "#AFCFFF",
+                        "--accent-color2": "#D0F5FF"
+                   }
+                }, {
                     name: "S.E.Lain",
                     image: "https://64.media.tumblr.com/54a945edd2641e20859d6f6537cd7423/tumblr_pwa4bogz4N1qze3hdo2_r1_500.gifv",
                     colors: {
