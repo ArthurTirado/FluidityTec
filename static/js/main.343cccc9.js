@@ -10571,21 +10571,6 @@
                 Je = n.p + "static/media/pic_7.5125a16fb9841edb115a.jpg",
                 et = n.p + "static/media/pic_8.4387a5b982e94311f550.png",
                 tt = [{
-                    title: "Reddit",
-                    links: [{
-                        label: "r/startpages",
-                        value: "https://www.reddit.com/r/startpages/"
-                    }, {
-                        label: "r/unixporn",
-                        value: "https://www.reddit.com/r/unixporn/"
-                    }, {
-                        label: "r/rainmeter",
-                        value: "https://www.reddit.com/r/rainmeter/"
-                    }, {
-                        label: "r/AnimalsBeingDerps",
-                        value: "https://www.reddit.com/r/AnimalsBeingDerps/"
-                    }]
-                }, {
                     title: "3D Modelling",
                     links: [{
                         label: "Blender",
@@ -10632,12 +10617,6 @@
                     }, {
                         label: "Nobody Kanna Cross It",
                         value: "https://www.youtube.com/watch?v=2wqTnwJGvtc"
-                    }, {
-                        label: "Smug Dancin",
-                        value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q"
-                    }, {
-                        label: "Utamaru - The Sanctified Mind Cover",
-                        value: "https://www.youtube.com/watch?v=MHlJKLlS07U"
                     }]
                 }, {
                     title: "Sauce",
@@ -10653,12 +10632,6 @@
                     }, {
                         label: "Wave Animation - mburakerman",
                         value: "https://codepen.io/mburakerman/pen/eRZZEv"
-                    }, {
-                        label: "Da real sauce \u0505(\u2661\ufe43\u2661\u0505)",
-                        value: "https://www.youtube.com/watch?v=qr89xoZyE1g"
-                    }, {
-                        label: "Even more real sauce ( \u0361\xb0 \u035c\u0296 \u0361\xb0)",
-                        value: "https://www.youtube.com/watch?v=VLhJOd_TFiI"
                     }]
                 }],
                 nt = [{
