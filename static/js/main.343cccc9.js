@@ -10765,6 +10765,15 @@
                         "--accent-color2": "#78FDFF"
                     }
                 }, {
+                    name: "Mecha",
+                    image: "static/media/mecha.png",
+                    colors: {
+                        "--bg-color": "#000000",
+                        "--default-color": "#7EFFC8",
+                        "--accent-color": "#7EFFC8",
+                        "--accent-color2": "#7EFFC8"
+                    }
+                }, {
                     name: "Bodhisattva",
                     image: "static/media/netero.jpg",
                     colors: {
