@@ -10747,15 +10747,6 @@
                         "--accent-color2": "#ffffff"
                    }
                 }, {
-                    name: "The King of Curses",
-                    image: "static/media/sukuna.jpg",
-                    colors: {
-                        "--bg-color": "#000000",
-                        "--default-color": "#FFFFFF",
-                        "--accent-color": "#FF3932",
-                        "--accent-color2": "#FFFFFF"
-                    }
-                }, {
                     name: "Void Blue",
                     image: "static/media/voidblue.png",
                     colors: {
